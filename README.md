@@ -1,5 +1,5 @@
 # IASSA-Saliency
-Source code for our WACV 2020 paper <b>``Iterative and Adaptive Sampling with Spatial Attention for Black-Box Model Explanations" </b>
+Source code for our WACV 2020 paper <b> "Iterative and Adaptive Sampling with Spatial Attention for Black-Box Model Explanations" </b>
 
 [
 [Link to Paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Vasu_Iterative_and_Adaptive_Sampling_with_Spatial_Attention_for_Black-Box_Model_WACV_2020_paper.pdf)]
